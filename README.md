@@ -1,3 +1,3 @@
 # codepath_homework
 
-See branches for assignments.
+Unit 3 Kali Linux GIF Assignment
